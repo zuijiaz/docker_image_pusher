@@ -1,4 +1,2 @@
 alpine
 python alpine:3.19
-python
-java
