@@ -1,2 +1,1 @@
-alpine
-python alpine:3.19
+docker.n8n.io/n8nio/n8n
