@@ -1,7 +1,1 @@
-python
-postgres
-ubuntu
-node
-php
-httpd
-docker
+ollama/ollama
