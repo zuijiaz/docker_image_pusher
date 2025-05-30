@@ -1,1 +1,4 @@
-
+demisto/python3
+gcc
+rancher/curl
+netdata/wget
