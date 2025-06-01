@@ -1,4 +1,1 @@
-demisto/python3
-gcc
-rancher/curl
-netdata/wget
+ghcr.io/coqui-ai/tts-cpu
