@@ -1,1 +1,1 @@
-ghcr.io/coqui-ai/tts-cpu
+coqui-ai/tts-cpu
