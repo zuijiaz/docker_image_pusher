@@ -1,1 +1,6 @@
-threatbook/hfish-server:latest
+redis
+memcached
+busybox
+mongo
+sonarqube
+nextcloud
