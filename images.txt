@@ -1,1 +1,1 @@
-coqui-ai/tts-cpu
+threatbook/hfish-server:latest
