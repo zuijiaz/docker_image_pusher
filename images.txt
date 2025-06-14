@@ -1,6 +1,1 @@
-redis
-memcached
-busybox
-mongo
-sonarqube
-nextcloud
+linuxserver/wps-office:chinese
