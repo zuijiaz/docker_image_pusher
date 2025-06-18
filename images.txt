@@ -1,1 +1,1 @@
-docker pull dockurr/windows
+dockurr/windows
