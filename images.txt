@@ -1,2 +1,1 @@
-guovern/iptv-api:latest
 docker.1ms.run/guovern/iptv-api:latest
