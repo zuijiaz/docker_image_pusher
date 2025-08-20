@@ -1,1 +1,1 @@
-ai/qwen3
+redis
