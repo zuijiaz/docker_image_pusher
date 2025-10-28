@@ -1,1 +1,1 @@
-halohub/upage:latest
+minio/minio
