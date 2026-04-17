@@ -1,1 +1,1 @@
-ollama/ollama
+openclaw:latest
