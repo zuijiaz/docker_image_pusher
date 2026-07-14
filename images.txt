@@ -1,1 +1,1 @@
-tokenswitch/cc-switch
+germannewsmaker/myspeed
