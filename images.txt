@@ -1,1 +1,1 @@
-germannewsmaker/myspeed
+ccr.ccs.tencentyun.com/workbuddy/server:latest
