@@ -1,1 +1,1 @@
-docker.n8n.io/n8nio/n8n
+n8nio/n8n:nightly-6fc0aed-pc
