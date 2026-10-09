@@ -1,1 +1,1 @@
-n8nio/n8n:nightly-6fc0aed-pc
+portainer/portainer-ce:latest
